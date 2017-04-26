@@ -1,9 +1,5 @@
-# JS Generators
+# JavaScript Generators
 
-Notes taken after following a course on [egghead.io](https://egghead.io/courses/write-simple-asynchronous-code-with-javascript-generators).
+Related articles:
 
-To run these examples:
-
-```
-node 00.js
-```
+- [Write simple asynchronous code with JavaScript generators](https://egghead.io/courses/write-simple-asynchronous-code-with-javascript-generators)
